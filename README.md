@@ -23,7 +23,7 @@ Signal flow graph is a graphical representation of algebraic equations. It is us
 ## Features to be Added
 - UnitTest
 - GUI
-## Contributes
+## Contributers
 - @github/nada-086
 - @github/TokaAshraf12
 - @github/rowannasser
