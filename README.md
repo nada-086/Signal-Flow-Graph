@@ -24,6 +24,6 @@ Signal flow graph is a graphical representation of algebraic equations. It is us
 - UnitTest
 - GUI
 ## Contributers
-- @github/nada-086
-- @github/TokaAshraf12
-- @github/rowannasser
+- [Nada Essa](https://github.com/nada-086)
+- [Toka Ashraf](https://github.com/TokaAshraf12)
+- [Rowan Nasser](https://github.com/rowannasser)
